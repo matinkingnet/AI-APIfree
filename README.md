@@ -1,2 +1,2 @@
-# AI-APIfree
-Hi buddy, this is an API from the gimini repository that works using PHP codes, and it is also free and works using VPN.
+سلام رفیق این یک پروزه به صورت تست بوده و اینکه api مال خود giminiهست واینکه ما امدیم با کد phpخام طراحی کردیم تا تشکر 
+id_telegram=@matiniza
